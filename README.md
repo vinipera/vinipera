@@ -43,7 +43,7 @@
 
 ### 🐍 Snake Animation (atividade)
 
-![snake gif](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/viniipera/viniipera/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

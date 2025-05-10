@@ -33,25 +33,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viniipera&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🐍 Snake Animation (atividade)
-
-![snake gif](https://github.com/viniipera/viniipera/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 👀 Visitantes
-
-![visitors](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blue&style=for-the-badge)
-
----
 
 ### 🤝 Vamos Colaborar!
 

@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em projetos web com **PHP, React e MySQL**
+- 🔭 Atualmente trabalhando em projetos web (meu TCC) com **PHP, React e MySQL**
 - 🌱 Estudando **HTML, CSS, PHP e JavaScript**
 - 🎯 Foco: **Desenvolvimento de sites web (Front e Back End)**
 - 📚 Gosto de compartilhar conhecimento e criar soluções simples para problemas reais
@@ -17,9 +17,9 @@
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamvinespr)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vines.bey@gmail.com)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink](https://www.linkedin.com/in/vin%C3%ADcius-pereira-de-morais-b82205347))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vines0808)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.morais.sjc@gmail.com)
 
 ---
 
